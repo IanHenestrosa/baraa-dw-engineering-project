@@ -6,7 +6,7 @@ Proposito:
     Este scrip crea una nueva base de datos llamada 'DataWarehouse' despues
     de verificar si ya existe.
     Si la base de datos ya existe la eliminta y la vuelve a crear.
-    Adicionalmente el script inica thres esquemas dentro de la base de datos:
+    Adicionalmente el script inica tres esquemas dentro de la base de datos:
     'broze', 'silver' y  'gold'.
 
 WARNING:
